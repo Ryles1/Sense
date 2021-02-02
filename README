@@ -1,0 +1,6 @@
+This repo is for scripts for using the raspberry pi sense hat.
+
+check_temp checks the temperature using the sense hat's measure_temp method
+every 30 mins and records the temperature in a text file
+
+sense checks the temperature and prints the output
